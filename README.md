@@ -12,5 +12,3 @@ In the next step, you’ll gain access to a tool that we call the Learn IDE, or
 "Integrated Development Environment." We promise, getting it setup is simple.
 It's worth taking a moment to breathe a deep breath before you encounter the
 IDE.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/using-real-developer-tools-github'>Using Real Developer Tools: GitHub</a> on Learn.co and start learning to code for free.</p>
